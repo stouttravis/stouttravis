@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stouttravis
 - 👀 I’m interested in persuing a MCS
-- 🌱 I’m currently learning C++ continuing to learn advance python
+- 🌱 I’m currently learning C++ continuing to learn advanced python
 - 💞️ I’m looking to collaborate on open source projects to give back to the community
 
 <!---
